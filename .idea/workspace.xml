@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71dc302c-b3b8-4c92-ab0c-f19393d18b3f" name="Default Changelist" comment="" />
+    <list default="true" id="e41d9345-eaf0-4a12-bd40-a81893586c70" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,11 +13,10 @@
       <executable />
     </execution>
   </component>
-  <component name="ProjectId" id="1Ul5BAw44B2N3LLDGH1gAv8lXxF" />
+  <component name="ProjectId" id="1Ul8O6Je7fmGiPajkwBbX2pGqiD" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wordpress/wp-content/themes/ziarul-de-asii" />
-    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -36,12 +35,14 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="71dc302c-b3b8-4c92-ab0c-f19393d18b3f" name="Default Changelist" comment="" />
-      <created>1575918203598</created>
+      <changelist id="e41d9345-eaf0-4a12-bd40-a81893586c70" name="Default Changelist" comment="" />
+      <created>1575919785318</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1575918203598</updated>
-      <workItem from="1575918204722" duration="1579000" />
+      <updated>1575919785318</updated>
+      <workItem from="1575919786407" duration="6549000" />
+      <workItem from="1576015910819" duration="39000" />
+      <workItem from="1576149665270" duration="3303000" />
     </task>
     <servers />
   </component>

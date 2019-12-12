@@ -12,21 +12,15 @@
 ?>
 
 	</div><!-- #content -->
-
+<hr>
 	<footer id="colophon" class="site-footer">
-		<div class="site-info">
-			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'ziarul-de-asii' ) ); ?>">
-				<?php
-				/* translators: %s: CMS name, i.e. WordPress. */
-				printf( esc_html__( 'Proudly powered by %s', 'ziarul-de-asii' ), 'WordPress' );
-				?>
-			</a>
-			<span class="sep"> | </span>
-				<?php
-				/* translators: 1: Theme name, 2: Theme author. */
-				printf( esc_html__( 'Theme: %1$s by %2$s.', 'ziarul-de-asii' ), 'ziarul-de-asii', '<a href="https://asii.ro/">asii</a>' );
-				?>
-		</div><!-- .site-info -->
+        <nav class="site-nav">
+            <?php
+            wp_nav_menu( array(
+                'theme_location' => 'footer',
+            ) );
+            ?>
+        </nav><!-- #site-navigation -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
 
